@@ -8,7 +8,7 @@ pub mod voucher;
 
 use instructions::*;
 
-declare_id!("fbQtEbQ6dHs9Wpk7xm3vBYkKWgpBkmmK6cpcmn9vvED");
+declare_id!("8FgnYTEdbvSkbGQ1gC9Laihv6amobQ4r4kSECPQpY68L");
 
 #[program]
 pub mod craftec_settlement {

@@ -5,7 +5,10 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-craftec_settlement = "fbQtEbQ6dHs9Wpk7xm3vBYkKWgpBkmmK6cpcmn9vvED"
+craftec_settlement = "8FgnYTEdbvSkbGQ1gC9Laihv6amobQ4r4kSECPQpY68L"
+
+[programs.devnet]
+craftec_settlement = "8FgnYTEdbvSkbGQ1gC9Laihv6amobQ4r4kSECPQpY68L"
 
 [registry]
 url = "https://api.apr.dev"
